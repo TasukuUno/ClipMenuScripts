@@ -1,0 +1,13 @@
+{
+  "maxerr": 9999,
+  "undef": true,
+  "unused": "vars",
+  "sub": true,
+  "expr": true,
+  "-W065": false,
+
+  "globals": {
+    "ClipMenu": true,
+    "clipText": true
+  }
+}
